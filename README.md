@@ -33,17 +33,12 @@ nlp-mini-projects/
 │   ├── notebooks/
 │   │   ├── 00_Text_Preprocessing.ipynb
 │   │   ├── 01_Bidirectional_LSTM.ipynb
-│   │   ├── 02_GRU_Model.ipynb              # optional future
-│   │   ├── 03_CNN_Text_Classifier.ipynb    # optional future
-│   │   └── 04_Evaluation_and_Examples.ipynb
 │   │
 │   └── README.md
 │
 ├── shakespeare_generator/
 │   ├── notebooks/
-│   │   ├── 00_Data_Exploration.ipynb
-│   │   ├── 01_Character_Level_Model.ipynb
-│   │   └── 02_Sonnet_Generator.ipynb
+│   │   |── 02_Text_Generator.ipynb
 │   │
 │   └── README.md
 │
