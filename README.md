@@ -26,7 +26,7 @@ It includes both **notebooks for learning** and **modular, reusable code** for r
 ---
 
 ## 📁 Project Structure
-
+```
 nlp-mini-projects/
 │
 ├── imdb_sentiment/
@@ -48,7 +48,7 @@ nlp-mini-projects/
 │   └── README.md
 │
 └── README.md   # this file
-
+```
 
 ---
 
